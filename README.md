@@ -31,12 +31,16 @@ I have achieved the 3-Star Problem Solving badge on HackerRank.
 
 Calculates the absolute difference between the sums of the two diagonals of a square matrix.
 
+**Accepted Submission Screenshot**
+
 <img width="1920" height="1080" alt="Diagonal-Difference" src="https://github.com/user-attachments/assets/8cc86438-030b-43af-8848-ff97a0b1d277" />
 
 
 ### 2. Dynamic Array
 
 Uses dynamic sequences and XOR-based indexing to process type 1 and type 2 queries.
+
+**Accepted Submission Screenshot**
 
 <img width="1920" height="1080" alt="Dynamic-Array" src="https://github.com/user-attachments/assets/380bbe17-40ec-4d70-a25d-aae1b0ba5e02" />
 
@@ -45,6 +49,8 @@ Uses dynamic sequences and XOR-based indexing to process type 1 and type 2 queri
 
 Converts a 12-hour AM/PM time format into 24-hour format.
 
+**Accepted Submission Screenshot**
+
 <img width="1920" height="1080" alt="Time-Conversion" src="https://github.com/user-attachments/assets/10a8c6be-ae63-4df7-9e7e-de65828faac5" />
 
 
@@ -52,12 +58,16 @@ Converts a 12-hour AM/PM time format into 24-hour format.
 
 Compares Alice's and Bob's ratings and calculates their respective scores.
 
+**Accepted Submission Screenshot**
+
 <img width="1920" height="1080" alt="Compare-the-Triplets" src="https://github.com/user-attachments/assets/57415b85-a17c-4fec-8b5a-d338bd089a45" />
 
 
 ### 5. Sparse Arrays
 
 Counts how many times each query string occurs in the given list of strings.
+
+**Accepted Submission Screenshot**
 
 <img width="1920" height="1080" alt="Spare-Arrays" src="https://github.com/user-attachments/assets/c45574fe-b315-459f-aed1-3e15c2bcac49" />
 
@@ -74,7 +84,6 @@ The following problems were also solved on HackerRank to improve Problem Solving
 - Apple and Orange
 - Grading Students
 - Plus Minus
-- Array Manipulation
 
 ## Algorithmic Optimization
 
